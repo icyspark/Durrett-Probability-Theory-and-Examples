@@ -24,7 +24,7 @@ Author: Ft Zheng
 
 ## Notes
 1. Please do not delete the symbol "^" at the end of a note line and the content following it. This is used to link the note to other content, and deleting it will prevent proper navigation between related notes.
-2. Not for commercial use.
+2. **Not for commercial use.**
 
 ## Future updates will include:
 ### 1. Content related to proof techniques and the ideas behind theorems and definitions
@@ -56,7 +56,7 @@ Your valuable feedback is welcome, and I wish you success in your studies.
 
 ## 注意
 1. 请不要删除笔记行末符号"^"及其后面的内容，这是给该行笔记内容的链接，删除以后其他笔记所蕴含的链接将不能正常跳转。
-2. 不可商用。
+2. **不可商用。**
 
 ## 以后还会更新：
 ### 1. 关于证明技术、定理定义有关的思想的内容
