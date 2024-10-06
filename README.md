@@ -1,6 +1,6 @@
 # Durrett-Probability-Theory-and-Examples
 An Obsidian note repository with irregular updates of notes on Durrett's book Probability: Theory and Examples.
-Author: Ft Zheng
+Author: FT Z
 
 **中文版在底部**
 
