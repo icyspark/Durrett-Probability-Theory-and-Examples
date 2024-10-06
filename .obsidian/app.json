@@ -1,0 +1,14 @@
+{
+  "strictLineBreaks": false,
+  "smartIndentList": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "focusNewTab": true
+}
