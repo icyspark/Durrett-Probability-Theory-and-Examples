@@ -35,6 +35,7 @@ Author: Ft Zheng
 Your valuable feedback is welcome, and I wish you success in your studies.
 
 
+## ---The following is the Chinese version---
 ## ---以下是中文版---
 ## 简介
 1. 该笔记的内容从本科生水平的实变函数论开始，一直到Durrett教授的经典教材 *Probability: Theory and Examples* 第四章第8节结束，部分打星号（*）的章节没有被覆盖。
