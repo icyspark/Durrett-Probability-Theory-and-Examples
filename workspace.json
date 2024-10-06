@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "fae73f24bf141afe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7cd0ac676929951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bfd6be9e6ef78b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Measure Theory Foundations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6ca73c166023911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Preliminaries of Probability Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85bffe51f417de57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Law of Large Numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c02d6fe914fc13bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Central Limit Theorems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8941202f7858e1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Martingales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af9f655d976d5568",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c16bb331987b320",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44bd2312d135e6c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d818dd4510d3556",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "428b68c5e832779f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "f608d3e97d6804f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6d279dcc4835ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acf7374ddc1f17bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Central Limit Theorems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "283a857cda3fc413",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Central Limit Theorems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5822b33995b8068d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57cc3d824c5b67a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Central Limit Theorems.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c02d6fe914fc13bd",
+  "lastOpenFiles": [
+    "0. Measure Theory Foundations.md",
+    "2. Law of Large Numbers.md",
+    "Script.md",
+    "4. Martingales.md",
+    "3. Central Limit Theorems.md",
+    "1. Preliminaries of Probability Theory.md",
+    "Appendix A.md",
+    "0. Measure Theory Foundations^Thms2p3.md",
+    "^Thms2p3.md",
+    "Measure Theory Foundations.md"
+  ]
+}
