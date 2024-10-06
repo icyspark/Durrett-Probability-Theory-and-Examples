@@ -10,8 +10,8 @@ Author: Ft Zheng
 3. The main purpose of this note is to familiarize readers with the fundamental concepts of probability theory, laying a solid foundation for future graduate and doctoral studies, without placing too much emphasis on its analytical background.
 
 ## Regarding the Structure of the Notes
-1. Each markdown document corresponds to a chapter. The chapter titles are in red and provide a summary of the chapter's content. Every document includes a table of contents, and when opened in the software Obsidian, you can click on the section titles to jump to the corresponding part (this functionality is not available in the PDF version).
-2. Each chapter contains multiple sections, with section titles in reddish-brown. You can quickly navigate to the table of contents and the document's end by using the two links located below the title.
+1. Each markdown document corresponds to a chapter. The chapter titles are first level and provide a summary of the chapter's content. Every document includes a table of contents, and when opened in the software Obsidian, you can click on the section titles to jump to the corresponding part (this functionality is not available in the PDF version).
+2. Each chapter contains multiple sections, and their titles are secondary titles. You can quickly navigate to the table of contents and the document's end by using the two links located below the title.
 3. The content of each section follows this order:
    1. Introduction
    2. Basic assumptions: Sometimes all the functions in the chapter satisfy a specific condition. To reduce redundancy in the statements of propositions, such conditions are grouped in this section instead of being stated in each proposition.
@@ -43,8 +43,8 @@ Your valuable feedback is welcome, and I wish you success in your studies.
 3. 该笔记的主要目的是为了让读者熟悉概率论的基础内容，为后续研究生和博士学习打下扎实基础，没有太注重其分析背景。
 
 ## 关于笔记结构
-1. 每一个markdown文档对应一个章节，章节标题呈红色，并且概括了这一章的内容。每个文档都有目录，使用软件obsidian打开对应的markdown文档后，单击对应的小节标题即可跳转（pdf文件没有这样的功能）。
-2. 每一章有多个小节，其标题呈红棕色，利用标题下方的两行的链接可以快速跳转至目录和文档底部
+1. 每一个markdown文档对应一个章节，章节标题为一级标题，并且概括了这一章的内容。每个文档都有目录，使用软件obsidian打开对应的markdown文档后，单击对应的小节标题即可跳转（pdf文件没有这样的功能）。
+2. 每一章有多个小节，其标题是二级标题，利用标题下方的两行的链接可以快速跳转至目录和文档底部
 3. 每一节的内容依次是：
    1. 介绍
    2. 基本假设：可能该章节所有的函数都满足某个特定的条件，为了减少命题叙述的冗余，我们把这样的条件都统一放到了该栏目中，而不是在每个命题单独叙述
